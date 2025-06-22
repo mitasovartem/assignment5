@@ -18,8 +18,6 @@ parametrs = {
 }
 
 response = requests.get(URL,parametrs)
-print(response.status_code)
-
 data = response.json()
 
 daily_data =[]

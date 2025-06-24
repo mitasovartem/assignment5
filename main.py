@@ -1,7 +1,6 @@
 import requests
 import json
 import pandas
-import datetime
 
 API = "6de68435eab0e9e311cfc860c6f0ef81"
 URL = "https://pro.openweathermap.org/data/2.5/forecast"
